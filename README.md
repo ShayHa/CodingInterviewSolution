@@ -16,16 +16,16 @@ Feel free to submit pull requests, add issues and questions and maybe be a contr
 
 ## Algorithms
 
-* [Python]
-* [SQL](https://github.com/ShayHa/CodingInterviewSolutions#sql)
+* [Python](./python)
+* [SQL](./sql)
 
 
 
 ## SQL
 | Website 		| Title           |  Solution    | Difficulty    |  Note|
 |---------------- |---------------- | ----------- |  ------------- |-----|
-| Leetcode  | [177. Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/description/) | [SQL](./sql/nth-highest-salary.sql)  |  Medium       |         |
-| Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/description/) | [SQL](./sql/MoreThanManager.sql) |  Easy       |         |
-| Leetcode  | [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/) | [SQL](./sql/RisingTemperature.sql) | _O(n)_       | _O(1)_          |  Easy       |         |
-| Leetcode  | [597. Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/description/) | [SQL](./sql/FriendRequests1.sql) |  Easy       |         |
-| Leetcode  | [627. Swap Salary](https://leetcode.com/problems/swap-salary/description/) | [SQL](./sql/SwapSalary.sql) |  Easy       |         |
+| Leetcode  | [1350. Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [MySQL/PostgreSQL](./sql/1350_Students_With_Invalid_Departments.sql) |  Easy       |         |
+| Leetcode  | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [MySQL/PostgreSQL](./sql/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |  Easy       |         |
+| Leetcode  | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [MySQL/PostgreSQL](./sql/1683_Invalid_Tweets.sql) |  Easy       |         |
+| Leetcode  | [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) | [MySQL/PostgreSQL](./sql/1693_Daily_Leads_and_Partners.sql) |  Easy       |         |
+| Leetcode  | [1741. Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [MySQL/PostgreSQL](./sql/1741_Find_Total_Time_Spent_by_Each_Employee.sql) |  Easy       |         |
