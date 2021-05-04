@@ -19,11 +19,18 @@ Feel free to submit pull requests, add issues and questions and maybe be a contr
 * [Python](./python)
 * [SQL](./sql)
 
+## Python
+| Website 		| Title           |  Solution    | Difficulty    |  Note|
+|---------------- |---------------- | ----------- |  ------------- |-----|
+| Online Search  | [1. Flatten List Recursively](https://google.com/) | [Python](./python/1_Flatten_List_Recursively.py) |Easy -Medium|Nice question|
 
 
 ## SQL
 | Website 		| Title           |  Solution    | Difficulty    |  Note|
 |---------------- |---------------- | ----------- |  ------------- |-----|
+| Leetcode  | [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [MySQL/PostgreSQL](./sql/176_Second_Highest_Salary.sql) |  Easy       |  Tricky question       |
+| Leetcode  | [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | [MySQL/PostgreSQL](./sql/181_Employees_Earning_More_Than_Their_Managers.sql) |  Easy       |         |
+| Leetcode  | [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | [MySQL/PostgreSQL](./sql/196_Delete_Duplicate_Emails.sql) |  Easy       |         |
 | Leetcode  | [1350. Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | [MySQL/PostgreSQL](./sql/1350_Students_With_Invalid_Departments.sql) |  Easy       |         |
 | Leetcode  | [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) | [MySQL/PostgreSQL](./sql/1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.sql) |  Easy       |         |
 | Leetcode  | [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) | [MySQL/PostgreSQL](./sql/1683_Invalid_Tweets.sql) |  Easy       |         |
