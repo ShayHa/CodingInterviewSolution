@@ -23,6 +23,8 @@ Feel free to submit pull requests, add issues and questions and maybe be a contr
 | Website 		| Title           |  Solution    | Difficulty    |  Note|
 |---------------- |---------------- | ----------- |  ------------- |-----|
 | Online Search  | [1. Flatten List Recursively](https://google.com/) | [Python](./python/1_Flatten_List_Recursively.py) |Easy -Medium|Nice question|
+| Online Search  | [2. Decimal to Binary](https://www.google.com/search?q=decimal+to+binary+python/) | [Python](./python/2_Decimal_to_Binary.py) |Easy -Medium| |
+| Online Search  | [3. Count Words In a Sentence](https://google.com/search?q=Count+Words+In+a+Sentence+python/) | [Python](./python/3_Count_Words_In_a_Sentence.py) |Easy | |
 
 
 ## SQL
