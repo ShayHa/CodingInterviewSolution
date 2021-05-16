@@ -25,6 +25,11 @@ Feel free to submit pull requests, add issues and questions and maybe be a contr
 | Online Search  | [1. Flatten List Recursively](https://google.com/) | [Python](./python/1_Flatten_List_Recursively.py) |Easy -Medium|Nice question|
 | Online Search  | [2. Decimal to Binary](https://www.google.com/search?q=decimal+to+binary+python/) | [Python](./python/2_Decimal_to_Binary.py) |Easy -Medium| |
 | Online Search  | [3. Count Words In a Sentence](https://google.com/search?q=Count+Words+In+a+Sentence+python/) | [Python](./python/3_Count_Words_In_a_Sentence.py) |Easy | |
+| Online Search  | [4. How Many Times Each Word Appears In a List](https://google.com/search?q=How+Many+Times+Each+Word+Appears+In+a+List/) | [Python](./python/4_How_Many_Times_Each_Word_Appears_In_a_List.py) |Easy | |
+| Online Search  | [5. Unique Words In A list (keep the order)](https://google.com/search?q=Unique+Words+In+A+list+(keep+the+order)/) | [Python](./python/5_Unique_Words_In_A_list_keep_the_order.py) |Easy | |
+| Online Search  | [6. Find Max Element](https://www.google.com/search?q=Find+Max+Element+python/) | [Python](./python/6_Find_Max_Element.py) |Easy | |
+| Online Search  | [7. Find Median](https://www.google.com/search?q=Find+Median+python/) | [Python](./python/7_Find_Median.py) |Easy | |
+| Online Search  | [8. Find Non Recurring Element](https://www.google.com/search?q=Find+Non+Recurring+Element+python/) | [Python](./python/8_Find_Non_Recurring_Element.py) |Easy-Medium | |
 
 
 ## SQL
